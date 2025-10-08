@@ -23,3 +23,5 @@ A **web-based book recommendation system** built with **Flask** and **Python**, 
 * Learning project for **collaborative filtering** and **Flask deployment**
 
 https://book-recommender-system-062.onrender.com
+
+https://www.kaggle.com/code/asifamir07/book-recommender-system
