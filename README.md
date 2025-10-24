@@ -73,11 +73,3 @@ The project uses the **Book Recommendation Dataset** from Kaggle, containing inf
 - No **real-time feedback mechanism** for improving results dynamically.  
 - Lacks **deep learning** or **semantic understanding** of books (future enhancement area).
 
----
-
-### 🚀 How to Run Locally
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/asifamir07/book-recommender-system.git
-   cd book-recommender-system
